@@ -1,0 +1,21 @@
+.section3 {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    max-width: 100%;
+}
+
+.section3 table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.section3 th, td {
+    color: black;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.section3 th {
+    background-color:#c2e4a5 ;
+}
