@@ -4,6 +4,7 @@
     column-gap: 2rem;
     padding: 0.5rem 0rem;
     border-top: 2px solid green;
+    width: 100%;
 
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 2.3rem 1fr;
@@ -18,7 +19,7 @@
 }
 
 
-.titInt{
+.footer .titInt{
     grid-row: 1/2;
     grid-column: 1/2;
     margin-bottom: 1rem;
